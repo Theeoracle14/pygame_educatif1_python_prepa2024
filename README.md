@@ -19,7 +19,7 @@ Using library
 
 ## Screenshots
 
-![App Screenshot](./capture.jpg)
+![App Screenshot](./assets/img/capture.jpg)
 
 
 ## Authors
